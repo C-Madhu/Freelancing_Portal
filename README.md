@@ -10,4 +10,4 @@ upload it within minutes. Now freelancers browse apt projects and bid for it. Af
 completed the project based on the winner selected by employer, employers accept that
 completion and release the payment. As well as employer can hire the freelancer. Technologies
 used in developing the frontend and are JavaScript, Boostrap, and PHP. We connect backend
-with MYSQL, PHP using XAMP control panel as local server.
+with MYSQL and PHP using XAMP control panel as local server.
